@@ -150,11 +150,12 @@ a.info-box{
 
 /*================== WEATHER ==================*/
 
-img.info-b0x-weather-icon{
+
+img.info-box-weather-icon{
     height: 30px;
-    width: 30px! important;
+    width: 25px ! important;
     margin: 10px;
-    float: left;    
+    float: left;
 }
 
 h1.info-box-weather-icon{
@@ -169,9 +170,8 @@ table{
 }
 
 td{
-    border-top: 1px solid #131313
+    border-top: 1px solid #131313;
 }
-
 /*================== FORM ==================*/
 
 input{
